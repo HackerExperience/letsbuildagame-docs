@@ -18,7 +18,9 @@ Roughly, what we need to have ready on this phase is:
 
 As you can see, those are very fundamental and basic aspects of the game. And those have already been done for Hacker Experience 2.
 
+Before proceeding, let's explain the word *base*. Having a *base* gameplay, or *base* storyline is intended to serve as template, or direction, for the next phases, where contributors will extend those concepts.
 
+This is the reason we say HE2 will be a hacking game, even if we are unsure about how the final game design will be. We've shaped our basic concepts to match the one of a hacking game.
 
 # Concepts (Phase II)
 
