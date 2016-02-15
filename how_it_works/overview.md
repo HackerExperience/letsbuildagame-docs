@@ -37,4 +37,4 @@ If the rejection explanation is well-grounded, even if you do not agree with, yo
 
 However, if you believe the explanation is nonsensical or wrong, you should report it and explain why its wrong. Then, an unbiased person can review both sides and reach to a final conclusion.
 
-If no in-house member is involved, we are more than happy to provide that unbiased person. If someone is, we'll ask the contributor group to make a poll and vote on favor or against the decision. All of this must happen in public.
+If no in-house member is involved, we are more than happy to provide that unbiased person. If someone is, we'll ask the contributor group to make a poll and vote on favor or against the decision. This entire process must happen in public.
