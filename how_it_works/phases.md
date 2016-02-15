@@ -75,3 +75,13 @@ Now, on Phase III, we have the whole game described and we can analyze each feat
 Whenever a feature is rejected, or deemed impracticable, we go back to Phase II and check if its possible to rewrite this feature on a better way. 
 
 Phase III happens concurrently with next phases.
+
+# Technical Planning (Phase IV)
+
+## Overview
+
+On this phase, we choose the technology stack we are going to use. We take in consideration how many requests per second we plan to handle, and how we will be able to scale it out.
+
+## Rationale
+
+This Phase is intended to be 
