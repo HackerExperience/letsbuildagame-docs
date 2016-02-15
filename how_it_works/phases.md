@@ -52,4 +52,12 @@ That way, if by the end of Phase II we do not like the set of features we have, 
 
 The reverse is true: If we like the game described on Phase II, no matter how long it takes to finish the implementation, we know that the final product will be just as awesome - as long as executed properly.
 
+**NOTE:** This is one of the most important phases, and the one we actively need your input. After all, this is the phase that shapes the entire gameplay, so this is the best time to share your ideas/suggestions.
+
 # Game Design (Phase III)
+
+## Overview
+
+
+
+## Rationale
