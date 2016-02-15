@@ -54,10 +54,24 @@ The reverse is true: If we like the game described on Phase II, no matter how lo
 
 **NOTE:** This is one of the most important phases, and the one we actively need your input. After all, this is the phase that shapes the entire gameplay, so this is the best time to share your ideas/suggestions.
 
+Also note that, while most concepts are created during Phase II, *it is okay to suggest features after Phase II has been closed.* That's why Phase II and Phase III go on forever.
+
 # Game Design (Phase III)
 
 ## Overview
 
+The Phase III has the sole purpose of validating the concepts we've created on Phase I and II. This is the time our awesome Game Designers open their spreadsheets and do weird calculations.
 
+During this phase (which takes very long) they work relentlessly on making sure there are no loopholes or disbalance on features.
+
+By the way, *balance* is the key word during this phase. And it is not a tiny bit easy.
 
 ## Rationale
+
+On Phase II we *described* the game we want, on lay terms. Of course we gave some thought when we were writing those concepts, but not with the ideal depth or context.
+
+Now, on Phase III, we have the whole game described and we can analyze each feature in details.
+
+Whenever a feature is rejected, or deemed impracticable, we go back to Phase II and check if its possible to rewrite this feature on a better way. 
+
+Phase III happens concurrently with next phases.
