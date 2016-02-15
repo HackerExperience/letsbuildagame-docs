@@ -104,6 +104,10 @@ This phase marks the beginning of the software. We study at better length what i
 
 Really not much needs to be said here, I guess. Those who work with software knows exactly how this phase is.
 
+It is a quick but necessary step to better account for potential breaking mistakes, and to make sure we are developing something we actually need.
+
+However, given the nature of Phase VI, it's Okay to relax a bit on software planning. We expect to make constant planning through Phase VI.
+
 # Evolutionary Prototyping (Phase VI)
 
 ## Overview
@@ -115,4 +119,16 @@ Usually, the non-technical user will only be able to give feedback on user exper
 This is an endless Phase if we see maintenance as part of prototyping.
 
 ## Rationale
+
+Choosing evolutionary prototyping as lifecycle model was quite straightforward. It makes a lot of sense for open source software development.
+
+- It allow developers to focus on specific areas of the application, instead of having to understand the application as a whole.
+- It allow players to see how the game is shaping, give early feedback and potentially share new features.
+
+Furthermore, we see software as a naturally evolving "beast".
+
+We understand that it might take a while to loop (release) for the first time, since it involves the whole system working, building, testing and deploying itself, so we are OK with a delay to deliver the first cycle.
+
+After the first cycle, however, we expect to naturally flow on the automatic deployment spectrum.
+
 
