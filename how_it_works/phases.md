@@ -102,6 +102,8 @@ This phase marks the beginning of the software. We study at better length what i
 
 ## Rationale
 
+Really not much needs to be said here, I guess. Those who work with software knows exactly how this phase is.
+
 # Evolutionary Prototyping (Phase VI)
 
 ## Overview
