@@ -82,7 +82,7 @@ Phase III happens concurrently with next phases.
 
 On this phase, we choose the technology stack we are going to use. We take in consideration how many requests per second we plan to handle, and how we will be able to scale it out.
 
-This Phase is already done for HE2, but a review would be nice.
+This Phase is already completed for HE2, but a review would be nice.
 
 ## Rationale
 
