@@ -82,6 +82,8 @@ Phase III happens concurrently with next phases.
 
 On this phase, we choose the technology stack we are going to use. We take in consideration how many requests per second we plan to handle, and how we will be able to scale it out.
 
+Another important thing done here is to define how many software will need to be built. Intuitively you might think one, but HE2 is a client-server software and therefore needs at least two different applications. In fact, since we expect to support Mobile (iOS, Android) and Terminal interfaces, we will need at least 5 different software.
+
 This Phase is already completed for HE2, but a review would be nice.
 
 ## Rationale
@@ -93,6 +95,8 @@ If the audience happens to be much bigger than expected, we need to have a way t
 # Software Planning (Phase V)
 
 ## Overview
+
+
 
 ## Rationale
 
