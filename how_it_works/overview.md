@@ -35,6 +35,6 @@ If your idea does not get accepted, or someone rejects your feature request, don
 
 If the rejection explanation is well-grounded, even if you do not agree with, you should accept it. It's part of the democratic process.
 
-However, if you believe the explanation is nonsensical or plain wrong, you should report it and explain why its wrong. Then, an unbiased person can review both sides and reach to a final conclusion.
+However, if you believe the explanation is nonsensical or wrong, you should report it and explain why its wrong. Then, an unbiased person can review both sides and reach to a final conclusion.
 
 If no in-house member is involved, we are more than happy to provide that unbiased person. If someone is, we'll ask the contributor group to make a poll and vote on favor or against the decision. All of this will happen in public.
