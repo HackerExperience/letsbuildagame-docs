@@ -13,6 +13,8 @@ Roughly, what we need to have ready on this phase is:
 - Game name (tentative)
 - Game genre
 - Game objectives
+  - Identification of target audience
+  - Main platforms
 - Game principles
 - Base game concept: 
   - Base gameplay
@@ -29,5 +31,11 @@ This is the reason we say HE2 will be a hacking game, even if we are unsure abou
 Phase I serves the main purpose of defining what the game is, and what it will be about. As long as the upcoming changes extend the concepts on the same basis, the final product will be shaped by these foundations.
 
 # Concepts (Phase II)
+
+## Overview
+
+
+
+## Rationale
 
 # Game Design (Phase III)
