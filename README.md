@@ -8,7 +8,7 @@ Even though many open source projects exist today, newcomers find it hard to col
 
 # Which game?
 
-LBAG's first game is an ambitious project called Hacker Experience 2 (HE2). Just like LBAG itself, Hacker Experience 2 wants to bring more people to Computer Science by teaching, in a fun way, concepts of network, security, software development and more.
+LBAG's first game is an ambitious project called **Hacker Experience 2** (HE2). Just like LBAG itself, Hacker Experience 2 wants to bring more people to Computer Science by teaching, in a fun way, concepts of network, security, software development and more.
 
 Our in-house team built core concepts about HE2, including base game mechanics, what it will be like, what to expect, etc. From these concepts, contributors will expand and shape the final version of the game. Those concepts are simple and very flexible, it's just a way to make sure the game keeps on its intended direction.
 
