@@ -34,8 +34,22 @@ Phase I serves the main purpose of defining what the game is, and what it will b
 
 ## Overview
 
+The Phase II aims to further expand the base gameplay and storyline defined on Phase I. By the end of Phase II, we are expected to have a set of *core* concepts.
 
+- Core game concept
+  - Core gameplay
+  - Core storyline
+
+Notice the subtle change from *base* to *core*. On Phase II, we firm game mechanics that make a good part of the game.
+
+Core game mechanics include features we would like to see *still* on the first few releases of the game (within 3-6 months of publication). Game mechanics that are on the Roadmap, but would take too long to implement still can make as core, but it needs to be tagged as "Wishlist" or "Future".
 
 ## Rationale
+
+With a predefined set of core concepts, we now have something to expect as the final version. Phase I shapes the way we want to follow, and Phase II paves it. 
+
+That way, if by the end of Phase II we do not like the set of features we have, then we know very early that the final product probably will suck. 
+
+The reverse is true: If we like the game described on Phase II, no matter how long it takes to finish the implementation, we know that the final product will be just as awesome - as long as executed properly.
 
 # Game Design (Phase III)
