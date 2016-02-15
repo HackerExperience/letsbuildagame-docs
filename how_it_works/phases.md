@@ -12,10 +12,10 @@ Roughly, what we need to have ready on this phase is:
 
 - Game name (tentative)
 - Game genre
+- Game principles
 - Game objectives
   - Identification of target audience
   - Main platforms
-- Game principles
 - Base game concept: 
   - Base gameplay
   - Base storyline
