@@ -4,7 +4,7 @@ This is an attempt to describe how we plan to build a game together, with so man
 
 Here's a quick view of our challenge:
 
-- Dozens of contributors; all or many with different
+- Hundreds of contributors; all or many with different
  - opinions 
  - political views
  - likes and dislikes
