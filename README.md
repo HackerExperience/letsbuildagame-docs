@@ -14,7 +14,7 @@ Our in-house team built core concepts about HE2, including base game mechanics, 
 
 # What about the game license?
 
-Hacker Experience 2 will use the AGPL License, an FSF-approved license that gives you the freedom to copy, modify, study and redistribute the software.
+Hacker Experience 2 will use the **AGPLv3 License**, an FSF-approved license that gives you the freedom to copy, modify, study and redistribute the software.
 
 Note that the word *free*, in free software, has the same meaning as freedom, not necessarily as in free beer/*gratis*.
 
