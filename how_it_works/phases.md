@@ -89,3 +89,13 @@ This Phase is already completed for HE2, but a review would be nice.
 This is a quick, but very important phase in which we decide the tools and services that best handle the game expected audience.
 
 If the audience happens to be much bigger than expected, we need to have a way to scale out effortlessly. If it's much smaller than expected, it's ideal that we can shut down some services to save on resources.
+
+# Interface Planning (Phase V)
+
+## Overview
+
+## Rationale
+
+# Evolutionary Prototyping (Phase VI)
+
+# Maintenance (Phase VII)
