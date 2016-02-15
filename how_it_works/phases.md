@@ -110,7 +110,7 @@ Really not much needs to be said here, I guess. Those who work with software kno
 
 This is where the actual development takes place. This phase includes a loop of steps from building and evaluating a prototype until it is deemed acceptable by the end user. In the mean time, we get constant feedback from the community on ways to improve the software.
 
-Usually, the non-technical user will only be able to give feedback on user experience and user interface, but we look forward for feedback on performance, security and overal quality of software.
+Usually, the non-technical user will only be able to give feedback on user experience and user interface, but we look forward for feedback on performance, security and overal quality of software as well.
 
 ## Rationale
 
