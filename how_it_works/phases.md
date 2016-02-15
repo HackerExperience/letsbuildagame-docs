@@ -82,6 +82,10 @@ Phase III happens concurrently with next phases.
 
 On this phase, we choose the technology stack we are going to use. We take in consideration how many requests per second we plan to handle, and how we will be able to scale it out.
 
+This Phase is already done for HE2, but a review would be nice.
+
 ## Rationale
 
-This Phase is intended to be 
+This is a quick, but very important phase in which we decide the tools and services that best handle the game expected audience.
+
+If the audience happens to be much bigger than expected, we need to have a way to scale out efortlessly. If it's much smaller than expected, it's ideal that we can shut down some services to save on resources.
