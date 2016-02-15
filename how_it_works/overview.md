@@ -17,3 +17,6 @@ It's easy to conclude that *it's impossible to create a game that's exactly what
 
 Let's Build a Game main goal is to show to the world, and to ourselves, that we can work together, as one,  and bring complex systems to life. We did so with the Pyramids. We are doing so with Linux. And we can do so with LBAG.
 
+# Handling disagreements
+
+With such heterogeneous group, it's simply a matter of time until we get into disagreements about how to implement a feature, how to present a game mechanic or how to drive the project forward.
