@@ -112,10 +112,7 @@ This is where the actual development takes place. This phase includes a loop of 
 
 Usually, the non-technical user will only be able to give feedback on user experience and user interface, but we look forward for feedback on performance, security and overal quality of software as well.
 
-## Rationale
-
-# Maintenance (Phase VII)
-
-## Overview
+This is an endless Phase if we see maintenance as part of prototyping.
 
 ## Rationale
+
