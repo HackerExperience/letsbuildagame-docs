@@ -20,6 +20,6 @@ Note that the word *free*, in free software, has the same meaning as "freedom", 
 
 You will be able to play Hacker Experience 2 for free (*gratis*) by downloading and installing both the client and server software. Then, you can invite as many friends as you'd like to play with you. 
 
-We will do our best to have an easy-to-install server software, but it probably will require a powerful machine (6G+ RAM, 4+ cores CPU) and Linux OS (may run on Windows/OS X with VM software).
+We will do our best to have an easy-to-install server software, but it probably will require a powerful machine (4G+ RAM, 4+ core CPU) and Linux OS (may run on Windows/OS X with VM software).
 
 Neoart Labs, the company who created Hacker Experience 1 and is sponsoring the in-house team of Hacker Experience 2, will offer an online hosted ad-free version of the game for a small monthly subscription. Read more about HE2 and Neoart Labs' principles.
