@@ -92,11 +92,13 @@ This is a quick, but very important phase in which we decide the tools and servi
 
 If the audience happens to be much bigger than expected, we need to have a way to scale out effortlessly. If it's much smaller than expected, it's ideal that we can shut down some services to save on resources.
 
+The following Phases apply on each software outlined here.
+
 # Software Planning (Phase V)
 
 ## Overview
 
-
+This phase marks the beginning of the software. We study at better length what it is supposed to do, what to expect and how its interface should look (if applicable).
 
 ## Rationale
 
