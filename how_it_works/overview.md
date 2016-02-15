@@ -13,4 +13,7 @@ Here's a quick view of our challenge:
  - area of work
  - timezone
 
-It's easy to conclude that *it's impossible to create a game that's exactly what all of them want*.
+It's easy to conclude that *it's impossible to create a game that's exactly what all of them want*. That's not LBAG's purpose.
+
+Let's Build a Game main goal is to show to the world, and to ourselves, that we can work together, as one,  and bring complex systems to life. We did so with the Pyramids. We are doing so with Linux. And we can do so with LBAG.
+
