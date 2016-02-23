@@ -3,7 +3,7 @@
 Let's Build a Game (LBAG) is a project to allow gamers, developers, designers and interested people to build a game together.
 
 LBAG aims to create a **user-friendly collaborative environment**, so technical and non-technical people alike can collaborate and build together and in harmony.
-
+e
 Even though many open source projects exist today, newcomers find it hard to collaborate. They feel intimidated or confused about the complex work flow of the software. LBAG wants to lessen this "collaboration curve" and bring new people to open source software development. We also want to increase the interest of young men and women on Computer Science.
 
 # Which game?
@@ -22,4 +22,4 @@ You will be able to play Hacker Experience 2 for free (*gratis*) by downloading 
 
 We will do our best to have an easy-to-install server software, but it probably will require a powerful machine (4G+ RAM, 4+ core CPU) and Linux OS (may run on Windows/OS X with VM software).
 
-Neoart Labs, the company who created Hacker Experience 1 and is sponsoring the in-house team of Hacker Experience 2, will offer an online hosted ad-free version of the game for a small monthly subscription. Read more about HE2 and Neoart Labs' principles.
+Neoart Labs, the company who created Hacker Experience 1 and is sponsoring the in-house team of Hacker Experience 2, will offer an online hosted ad-free version of the game for a small monthly subscription. [Read more about HE2 and Neoart Labs' principles.]()
