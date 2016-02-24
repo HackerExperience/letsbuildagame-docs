@@ -1,8 +1,12 @@
-# Overview
+# Purpose
+
+A well-defined workflow allow us to track progress, ease contributions and stay organized.
+
+# Phases
 
 We decided to split the project implementation in phases. This will allow us to better focus our resources on more important issues, that should be solved in each phase.
 
-# Phases
+Below is a tentative description of our workflow.
 
 ## Foundation (Phase I)
 
