@@ -26,7 +26,7 @@ Roughly, what we need to have ready on this phase is:
   - Base gameplay
   - Base storyline
 
-As you can see, those are very fundamental and basic aspects of the game. And those have already been done for Hacker Experience 2.
+As you can see, those are fundamental and basic aspects of the game. And those have already been done for Hacker Experience 2.
 
 Before proceeding, let's explain the word *base*. Having a *base* gameplay, or *base* storyline is intended to serve as template, or direction, for the next phases, where contributors will extend those concepts.
 
