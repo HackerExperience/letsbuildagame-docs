@@ -2,9 +2,11 @@
 
 We decided to split the project implementation in phases. This will allow us to better focus our resources on more important issues, that should be solved in each phase.
 
-# Foundation (Phase I)
+# Phases
 
-## Overview
+## Foundation (Phase I)
+
+### Overview
 
 The first phase is where we define the foundations of the game. Roughly, this is where we describe the game we want to create.
 
@@ -26,13 +28,13 @@ Before proceeding, let's explain the word *base*. Having a *base* gameplay, or *
 
 This is the reason we say HE2 will be a hacking game, even if we are unsure about how the final game design will be. We've shaped our basic concepts to match the one of a hacking game.
 
-## Rationale
+### Rationale
 
 Phase I serves the main purpose of defining what the game is, and what it will be about. As long as the upcoming changes extend the concepts on the same basis, the final product will be shaped by these foundations.
 
-# Concepts (Phase II)
+## Concepts (Phase II)
 
-## Overview
+### Overview
 
 The Phase II aims to further expand the base gameplay and storyline defined on Phase I. By the end of Phase II, we are expected to have a set of *core* concepts.
 
@@ -44,7 +46,7 @@ Notice the subtle change from *base* to *core*. On Phase II, we firm game mechan
 
 Core game mechanics include features we would like to see *still* on the first few releases of the game (within 3-6 months of publication). Game mechanics that are on the Roadmap, but would take too long to implement still can make as core, but it needs to be tagged as "Wishlist" or "Future".
 
-## Rationale
+### Rationale
 
 With a predefined set of core concepts, we now have something to expect as the final version. Phase I shapes the way we want to follow, and Phase II paves it. 
 
@@ -56,9 +58,9 @@ The reverse is true: If we like the game described on Phase II, no matter how lo
 
 Also note that, while most concepts are created during Phase II, *it is okay to suggest features after Phase II has been closed.* That's why Phase II and Phase III go on forever.
 
-# Game Design (Phase III)
+## Game Design (Phase III)
 
-## Overview
+### Overview
 
 The Phase III has the sole purpose of validating the concepts we've created on Phase I and II. This is the time our awesome Game Designers open their spreadsheets and do weird calculations.
 
@@ -66,7 +68,7 @@ During this phase (which takes very long) they work relentlessly on making sure 
 
 By the way, *balance* is the key word during this phase. And it is not a tiny bit easy.
 
-## Rationale
+### Rationale
 
 On Phase II we *described* the game we want, on lay terms. Of course we gave some thought when we were writing those concepts, but not with the ideal depth or context.
 
@@ -76,9 +78,9 @@ Whenever a feature is rejected, or deemed impracticable, we go back to Phase II 
 
 Phase III happens concurrently with next phases.
 
-# Technical Planning (Phase IV)
+## Technical Planning (Phase IV)
 
-## Overview
+### Overview
 
 On this phase, we choose the technology stack we are going to use. We take in consideration how many requests per second we plan to handle, and how we will be able to scale it out.
 
@@ -86,7 +88,7 @@ Another important thing done here is to define how many software will need to be
 
 This Phase is already completed for HE2, but a review would be nice.
 
-## Rationale
+### Rationale
 
 This is a quick, but very important phase in which we decide the tools and services that best handle the game expected audience.
 
@@ -94,13 +96,13 @@ If the audience happens to be much bigger than expected, we need to have a way t
 
 The following Phases apply on each software outlined here.
 
-# Software Planning (Phase V)
+## Software Planning (Phase V)
 
-## Overview
+### Overview
 
 This phase marks the beginning of the software. We study at better length what it is supposed to do, what to expect and how its interface should look (if applicable).
 
-## Rationale
+### Rationale
 
 Really not much needs to be said here, I guess. Those who work with software knows exactly how this phase is.
 
@@ -108,9 +110,9 @@ It is a quick but necessary step to better account for potential breaking mistak
 
 However, given the nature of Phase VI, it's Okay to relax a bit on software planning. We expect to make constant planning through Phase VI.
 
-# Evolutionary Prototyping (Phase VI)
+## Evolutionary Prototyping (Phase VI)
 
-## Overview
+### Overview
 
 This is where the actual development takes place. This phase includes a loop of steps from building and evaluating a prototype until it is deemed acceptable by the end user. In the mean time, we get constant feedback from the community on ways to improve the software.
 
