@@ -15,7 +15,7 @@ Our in-house team built core concepts about HE2, including base game mechanics, 
 
 # And how we will do that?
 
-The first step is to have an optimistic and inclusive mindset. We can't achieve anything with gratuitous negativity or by blocking collaborations from other members.
+The first step is to have an optimistic and inclusive mindset. We can't achieve anything with gratuitous negativity or by inhibiting collaborations.
 
 The next step is to keep ourselves organized (as individuals and as a community). To achieve that, we have a comprehensible [contribution guideline](), as well as a friendly [code of conduct](). The purpose of these documents is not to complicate or block progress, but to provide a clear way to improving the project while staying organized.
 
