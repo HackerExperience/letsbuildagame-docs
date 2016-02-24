@@ -3,7 +3,7 @@
 Let's Build a Game (LBAG) is a project to allow gamers, developers, designers and interested people to build a game together.
 
 LBAG aims to create a **user-friendly collaborative environment**, so technical and non-technical people alike can collaborate and build together and in harmony.
-e
+
 Even though many open source projects exist today, newcomers find it hard to collaborate. They feel intimidated or confused about the complex work flow of the software. LBAG wants to lessen this "collaboration curve" and bring new people to open source software development. We also want to increase the interest of young men and women on Computer Science.
 
 # Which game?
