@@ -120,7 +120,7 @@ Usually, the non-technical user will only be able to give feedback on user exper
 
 This is an endless Phase if we see maintenance as part of prototyping.
 
-### Rationale
+## Rationale
 
 Choosing evolutionary prototyping as lifecycle model was quite straightforward. It makes a lot of sense for open source software development.
 
