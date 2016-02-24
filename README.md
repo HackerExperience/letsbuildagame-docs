@@ -19,7 +19,7 @@ The first step is to have an optimistic and inclusive mindset. We can't achieve 
 
 The next step is to keep ourselves organized (as individuals and as a community). To achieve that, we have a comprehensible [contribution guideline](), as well as a friendly [code of conduct](). The purpose of these documents is not to complicate or block progress, but to provide a clear way to improving the project while staying organized.
 
-Finally, we need a workflow. Roughly, our workflow consists of 6 well-defined phases. They help us track progress and enable a constant feedback loop. You can find a high-level description of our workflow at the next section.
+Finally, we need a workflow. Roughly, our workflow consists of 6 well-defined phases. They help us track progress and enable a constant feedback loop. You can find a [high-level description of our workflow]() at the next section.
 
 # What about the game license?
 
