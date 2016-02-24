@@ -25,7 +25,7 @@ In such cases, we must check the quality of arguments from each side. We may hos
 
 For most disagreements I believe the community itself will be able to reach a consensus (or majority). Our in-house team will moderate the discussions to make sure it is fair and objective. Swear words and *ad hominem* will not be tolerated.
 
-If the community fails to reach a consensus, or the issue gets out of hand, our Benevolent Dictator For Life will hold the final word, always having in mind the best to the community.
+If the community fails to reach a consensus, or the issue gets out of hand, our Benevolent Dictator For Life will hold the final say, always having in mind the best to the community.
 
 # Accepting disagreements
 
