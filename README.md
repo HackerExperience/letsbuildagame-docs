@@ -12,6 +12,11 @@ LBAG's first game is an ambitious project called **Hacker Experience 2** (HE2). 
 
 Our in-house team built core concepts about HE2, including base game mechanics, what it will be like and what to expect. From these concepts, contributors will expand and shape the final version of the game. Those concepts are simple and very flexible, it's just a way to make sure the game keeps on its intended direction.
 
+
+# And how we will do that?
+
+
+
 # What about the game license?
 
 Hacker Experience 2 will use the **AGPLv3 License**, an FSF-approved license that gives you the freedom to copy, modify, study and redistribute the software.
