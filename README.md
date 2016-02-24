@@ -4,18 +4,22 @@ Let's Build a Game (LBAG) is a project to allow gamers, developers, designers an
 
 LBAG aims to create a **user-friendly collaborative environment**, so technical and non-technical people alike can collaborate and build together and in harmony.
 
-Even though many open source projects exist today, newcomers find it hard to collaborate. They feel intimidated or confused about the complex work flow of the software. LBAG wants to lessen this "collaboration curve" and bring new people to open source software development. We also want to increase the interest of young men and women on Computer Science.
+Even though many open source projects exist today, newcomers find it hard to collaborate. They feel intimidated or confused about the complex workflow of the software. LBAG wants to lessen this "collaboration curve" and bring new people to open source software development. We also want to increase the interest of young men and women on Computer Science.
 
 # Which game?
 
-LBAG's first game is an ambitious project called **Hacker Experience 2** (HE2). Just like LBAG itself, Hacker Experience 2 wants to bring more people to Computer Science by teaching, in a fun way, concepts of network, security, software development and more.
+LBAG's first game is an ambitious project called **Hacker Experience 2** (HE2). Just like LBAG, Hacker Experience 2 wants to bring more people to Computer Science by teaching, in a fun way, concepts of network, security, software development and more.
 
 Our in-house team built core concepts about HE2, including base game mechanics, what it will be like and what to expect. From these concepts, contributors will expand and shape the final version of the game. Those concepts are simple and very flexible, it's just a way to make sure the game keeps on its intended direction.
 
 
 # And how we will do that?
 
+The first step is to have an optimistic and inclusive mindset. We can't achieve anything with gratuitous negativity or by blocking collaborations from other members.
 
+The next step is to keep ourselves organized (as individuals and as a community). To achieve that, we have a comprehensible [contribution guideline](), as well as a friendly [code of conduct](). The purpose of these documents is not to complicate or block progress, but to provide a clear way to improving the project while staying organized.
+
+Finally, we need a workflow. Roughly, our workflow consists of  You can find a high-level description of our workflow on the next section.
 
 # What about the game license?
 
